@@ -102,7 +102,7 @@ checksum = "965c2d33e53cb6b267e148a4cb0760bc01f4904c1cd4bb4002a085bb016d1490"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "synstructure",
 ]
 
@@ -114,7 +114,7 @@ checksum = "7b18050c2cd6fe86c3a76584ef5e0baf286d038cda203eb6223df2cc413565f7"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -125,7 +125,7 @@ checksum = "e539d3fca749fcee5236ab05e93a52867dd549cc157c8cb7f99595f3cedffdb5"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -481,7 +481,7 @@ checksum = "cb7330aeadfbe296029522e6c40f315320aba36fc43a5b3632f3795348f3bd22"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "unicode-xid",
 ]
 
@@ -526,7 +526,7 @@ checksum = "97369cbbc041bc366949bc74d34658d6cda5621039731c6310521892a3a20ae0"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -690,7 +690,7 @@ checksum = "162ee34ebcb7c64a8abebc059ce0fee27c2262618d7b60ed8faf72fef13c3650"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -783,7 +783,7 @@ checksum = "53010ccb100b96a67bc32c0175f0ed1426b31b655d562898e57325f81c023ac0"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -1156,9 +1156,9 @@ dependencies = [
 
 [[package]]
 name = "mach2"
-version = "0.4.2"
+version = "0.4.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "19b955cdeb2a02b9117f121ce63aa52d08ade45de53e48fe6a38b39c10f6f709"
+checksum = "d640282b302c0bb0a2a8e0233ead9035e3bed871f0b7e81fe4a1ec829765db44"
 dependencies = [
  "libc",
 ]
@@ -1538,7 +1538,7 @@ dependencies = [
  "pest_meta",
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -1591,7 +1591,7 @@ dependencies = [
  "phf_shared",
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -1878,7 +1878,7 @@ checksum = "1165225c21bff1f3bbce98f5a1f889949bc902d3575308cc7b0de30b4f6d27c7"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2167,7 +2167,7 @@ dependencies = [
  "proc-macro2",
  "quote",
  "serde_derive_internals",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2232,7 +2232,7 @@ checksum = "5b0276cf7f2c73365f7157c8123c21cd9a50fbbd844757af28ca1f5925fc2a00"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2243,7 +2243,7 @@ checksum = "18d26a20a969b9e3fdf2fc2d9f21eda6c40e2de84c9408bb5d3b05d499aae711"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2515,9 +2515,9 @@ dependencies = [
 
 [[package]]
 name = "syn"
-version = "2.0.103"
+version = "2.0.104"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e4307e30089d6fd6aff212f2da3a1f9e32f3223b1f010fb09b7c95f90f3ca1e8"
+checksum = "17b6f705963418cdb9927482fa304bc562ece2fdd4f616084c50b7023b435a40"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -2532,7 +2532,7 @@ checksum = "728a70f3dbaf5bab7f0c4b1ac8d7ae5ea60a4b5549c8a5914361c99147a709d2"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2561,7 +2561,7 @@ checksum = "4fee6c4efc90059e10f81e6d42c60a18f76588c3d74cb83a0b242a2b6c7504c1"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2572,7 +2572,7 @@ checksum = "7f7cf42b4507d8ea322120659672cf1b9dbb93f8f2d4ecfd6e51350ff5b17a1d"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2700,7 +2700,7 @@ checksum = "6e06d43f1345a3bcd39f6a56dbb7dcab2ba47e68e8ac134855e7e2bdbaf8cab8"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -2804,7 +2804,7 @@ checksum = "81383ab64e72a7a8b8e13130c49e3dab29def6d0c7d76a03087b3cf71c5c6903"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -3017,7 +3017,7 @@ checksum = "dcba0282a9f9297af06b91ff22615e7f77f0ab66f75fc95898960d1604fc7fd7"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "unzip-n",
 ]
 
@@ -3096,7 +3096,7 @@ dependencies = [
  "log",
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "wasm-bindgen-shared",
 ]
 
@@ -3118,7 +3118,7 @@ checksum = "8ae87ea40c9f689fc23f209965b6fb8a99ad69aeeb0231408be24920604395de"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "wasm-bindgen-backend",
  "wasm-bindgen-shared",
 ]
@@ -3180,9 +3180,9 @@ dependencies = [
 
 [[package]]
 name = "wide"
-version = "0.7.32"
+version = "0.7.33"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "41b5576b9a81633f3e8df296ce0063042a73507636cbe956c61133dd7034ab22"
+checksum = "0ce5da8ecb62bcd8ec8b7ea19f69a51275e91299be594ea5cc6ef7819e16cd03"
 dependencies = [
  "bytemuck",
  "safe_arch",
@@ -3553,7 +3553,7 @@ checksum = "38da3c9736e16c5d3c8c597a9aaa5d1fa565d0532ae05e27c24aa62fb32c0ab6"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "synstructure",
 ]
 
@@ -3573,7 +3573,7 @@ dependencies = [
 [[package]]
 name = "zenoh"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "ahash",
  "async-trait",
@@ -3622,7 +3622,7 @@ dependencies = [
 [[package]]
 name = "zenoh-buffers"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "zenoh-collections",
 ]
@@ -3630,7 +3630,7 @@ dependencies = [
 [[package]]
 name = "zenoh-codec"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "tracing",
  "uhlc",
@@ -3642,12 +3642,12 @@ dependencies = [
 [[package]]
 name = "zenoh-collections"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 
 [[package]]
 name = "zenoh-config"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "json5",
  "num_cpus",
@@ -3669,7 +3669,7 @@ dependencies = [
 [[package]]
 name = "zenoh-core"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "lazy_static",
  "tokio",
@@ -3680,7 +3680,7 @@ dependencies = [
 [[package]]
 name = "zenoh-crypto"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "aes",
  "hmac",
@@ -3693,7 +3693,7 @@ dependencies = [
 [[package]]
 name = "zenoh-ext"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "bincode",
@@ -3712,7 +3712,7 @@ dependencies = [
 [[package]]
 name = "zenoh-keyexpr"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "getrandom 0.2.16",
  "hashbrown 0.14.5",
@@ -3727,7 +3727,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "zenoh-config",
  "zenoh-link-commons",
@@ -3747,7 +3747,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-commons"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "flume",
@@ -3771,7 +3771,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-quic"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "base64 0.22.1",
@@ -3798,7 +3798,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-serial"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "tokio",
@@ -3816,7 +3816,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-tcp"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "nix 0.26.4",
@@ -3834,7 +3834,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-tls"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "base64 0.22.1",
@@ -3863,7 +3863,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-udp"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "nix 0.26.4",
@@ -3883,7 +3883,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-unixpipe"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "advisory-lock",
  "async-trait",
@@ -3905,7 +3905,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-unixsock_stream"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "nix 0.29.0",
@@ -3923,7 +3923,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-vsock"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "libc",
@@ -3941,7 +3941,7 @@ dependencies = [
 [[package]]
 name = "zenoh-link-ws"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "futures-util",
@@ -3961,18 +3961,18 @@ dependencies = [
 [[package]]
 name = "zenoh-macros"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "zenoh-keyexpr",
 ]
 
 [[package]]
 name = "zenoh-plugin-trait"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "git-version",
  "libloading",
@@ -3988,7 +3988,7 @@ dependencies = [
 [[package]]
 name = "zenoh-protocol"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "const_format",
  "rand 0.8.5",
@@ -4002,7 +4002,7 @@ dependencies = [
 [[package]]
 name = "zenoh-result"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "anyhow",
 ]
@@ -4010,7 +4010,7 @@ dependencies = [
 [[package]]
 name = "zenoh-runtime"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "lazy_static",
  "ron",
@@ -4024,7 +4024,7 @@ dependencies = [
 [[package]]
 name = "zenoh-shm"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "advisory-lock",
  "async-trait",
@@ -4047,7 +4047,7 @@ dependencies = [
 [[package]]
 name = "zenoh-sync"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "event-listener",
  "futures",
@@ -4060,7 +4060,7 @@ dependencies = [
 [[package]]
 name = "zenoh-task"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "futures",
  "tokio",
@@ -4073,7 +4073,7 @@ dependencies = [
 [[package]]
 name = "zenoh-transport"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "crossbeam-utils",
@@ -4107,7 +4107,7 @@ dependencies = [
 [[package]]
 name = "zenoh-util"
 version = "1.2.1"
-source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#cec5dbf3e6195be69fcee756b44e00dfadf12641"
+source = "git+https://github.com/habby1012/zenoh.git?branch=release%2F1.2.1#b303a4a145622ededde2492287842a4798c4e10e"
 dependencies = [
  "async-trait",
  "const_format",
@@ -4146,7 +4146,7 @@ checksum = "9ecf5b4cc5364572d7f4c329661bcc82724222973f2cab6f050a4e5c22f75181"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
 
 [[package]]
@@ -4166,7 +4166,7 @@ checksum = "d71e5d6e06ab090c67b5e44993ec16b72dcbaabc526db883a360057678b48502"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
  "synstructure",
 ]
 
@@ -4206,5 +4206,5 @@ checksum = "5b96237efa0c878c64bd89c436f661be4e46b2f3eff1ebb976f7ef2321d2f58f"
 dependencies = [
  "proc-macro2",
  "quote",
- "syn 2.0.103",
+ "syn 2.0.104",
 ]
